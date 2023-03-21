@@ -17,9 +17,9 @@ public class HelloResource {
 	      String response = "";
 
       	if (message == null)
-      	  response = "Hello world from host "+hostname+"\n";
+      	  response = "I love YAYA!!!Hello world from host "+hostname+"\n";
       	else
-      	  response = "Hello world from host ["+hostname+"]. Message received = "+message+"\n";
+      	  response = "YAYA so CUTEEEEE!!!! Hello world from host ["+hostname+"]. Message received = "+message+"\n";
 
         return response;
     }
